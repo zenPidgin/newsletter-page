@@ -5,7 +5,7 @@ const bodyParser = require("body-parser")
 const request = require("request")
 const port = 3000
 const http = require("https")
-const appId = "4aabc181af07a9435a2d1a223b4e1d85-us18"
+const appId = ""
 const listId = "a9aa71c1fd"
 const https = require("https")
 
